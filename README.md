@@ -1,5 +1,5 @@
 # Booking_list
 
 Members:
-Chad Luab,
-Junie John Roldan
+Chad Luab(Chad-Luab)
+Junie John Roldan(NiceGuy3000)
